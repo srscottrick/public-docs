@@ -1,0 +1,13 @@
+* Setup
+** Cache credentials
+   #+BEGIN_SRC sh
+     git config credential.helper cache
+
+   #+END_SRC
+
+** User setup
+   #+BEGIN_SRC sh
+     git config --local user.name "User Name"
+     git config --local user.email "user@example.com"
+
+   #+END_SRC
