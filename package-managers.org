@@ -1,0 +1,19 @@
+* Pacman
+*** Update system
+    #+BEGIN_SRC sh
+      pacman -Syu
+    #+END_SRC
+* Yum
+*** Update
+    #+BEGIN_SRC sh
+      sudo yum update
+    #+END_SRC
+*** Install
+    #+BEGIN_SRC sh
+      sudo yum install -y foo
+    #+END_SRC
+* Apt
+*** Install
+    #+BEGIN_SRC sh
+      apt-get install foo
+    #+END_SRC
