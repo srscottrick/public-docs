@@ -1,0 +1,8 @@
+* Jeni Simmons Layout Lab
+  http://labs.jensimmons.com/
+
+* Common Layouts in CSS Grid (Mozilla Developer Network)
+  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout
+
+* Grid By Example
+  https://gridbyexample.com/
